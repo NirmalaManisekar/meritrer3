@@ -73,8 +73,17 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\en\Microsoft.IdentityModel.resources.dll" />
+    <Content Include="bin\meritrer3Web.dll" />
+    <Content Include="bin\meritrer3Web.pdb" />
+    <Content Include="bin\Microsoft.IdentityModel.dll" />
+    <Content Include="bin\Microsoft.IdentityModel.Extensions.dll" />
+    <Content Include="bin\Microsoft.SharePoint.Client.dll" />
+    <Content Include="bin\Microsoft.SharePoint.Client.Runtime.dll" />
     <Content Include="packages.config" />
+    <None Include="bin\meritrer3Web.dll.config" />
     <None Include="Properties\PublishProfiles\test.pubxml" />
+    <None Include="Properties\PublishProfiles\tet1.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

@@ -22,7 +22,7 @@
     <WorkflowPartId>{cfc96412-e3a6-4a66-9aaa-a38bb2a1b40a}</WorkflowPartId>
     <CspkgPartId>{8b165e1c-2505-42b7-9e28-af0e4f392935}</CspkgPartId>
     <SqlPackagePartId>{cf97e770-d2af-48d6-9d9a-17e334629813}</SqlPackagePartId>
-    <ActivePublishProfile>test</ActivePublishProfile>
+    <ActivePublishProfile>tet1</ActivePublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
